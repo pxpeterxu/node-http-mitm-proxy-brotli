@@ -1,6 +1,6 @@
 {
   "name": "http-mitm-proxy-brotli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Middleware for decoding Brotli responses with node-http-mitm-proxy",
   "main": "lib/index.js",
   "scripts": {
@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/pxpeterxu/node-http-mitm-proxy-brotli#readme",
   "dependencies": {
-    "iltorb": "^2.3.0"
+    "iltorb": "*"
   },
   "devDependencies": {
     "eslint": "^4.19.1",
